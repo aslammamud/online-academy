@@ -1,0 +1,32 @@
+.stat_box {color: white;
+    margin: 19px;
+    text-align: center;}
+.bg_green { background-color: #1ac93a;
+background-image: linear-gradient(346deg, #1ac93a 0%, #129e24 46%, #16752a 100%);
+
+}
+.bg_pending {background: #FDC830;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.bg_purple {background-color: #793e83;
+background-image: linear-gradient(268deg, #793e83 0%, #a347cb 100%);
+)
+}
+.sep_title {    background: #c1c1c1;
+    padding: 20px;     font-size:24px; }
+	
+.bg_lime {background-color: #0e91b1;
+background-image: linear-gradient(225deg, #0e91b1 0%, #549fe0 50%, #286fa2 100%);
+ground-image: linear-gradient(225deg, #3cdaff 0%, #297bc5 50%, #0a5c96 100%);
+
+}
+.bg_grey {background-color: #4d555a;
+background-image: linear-gradient(160deg, #4d555a 0%, #a8acac 100%);
+}
+         
+
+
+     
+
+   
